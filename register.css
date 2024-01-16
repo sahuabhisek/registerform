@@ -1,0 +1,34 @@
+body{
+    margin:auto;
+    padding: auto;
+    border: 1px solid black;
+    width:500px;
+    height: 500px;
+    background-color: wheat;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+input{
+        margin-left: 20px;
+        padding:10px;
+}
+.email input{
+                margin: 15px;
+                margin-left: 20px;
+                width: 390px;
+}
+.date input{
+            width:390px;    
+}
+ button{
+              margin:20px;
+              width:414px;
+              padding:10px;
+              color:white;
+              background-color: blue;
+ }
